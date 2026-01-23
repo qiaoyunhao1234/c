@@ -8,8 +8,8 @@
 
 ## 📊 GitHub 统计
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=qiaoyunhao1234&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=qiaoyunhao1234&layout=compact&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=qiaoyunhao1234&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=qiaoyunhao1234&layout=compact&theme=radical)
 
 ## 🛠️ 技术栈
 
@@ -44,7 +44,6 @@
 
 ⭐️ *如果我的代码对您的408备考有帮助，欢迎给个Star！*
 
-![Visitor Count](https://komarev.com/ghpvc/?username=qiaoyunhao1234&color=blue&label=访问次数)
 
 ---
 
