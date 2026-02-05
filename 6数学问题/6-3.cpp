@@ -6,7 +6,7 @@ using namespace std;
 
 string Divide(string str,int x){
     int remainder=0;
-    for(int i=0;i<str.size();i++){
+    for(size_t i=0;i<str.size();i++){
         int current=remainder*10+str[i]-'0';
         str[i]=(current/x)+'0';
         remainder=current%x;
@@ -56,7 +56,7 @@ int main(){
             str=Divide(str,2);
         }
         string answer="0";
-        for(int i=0;i<binary.size();i++){
+        for(size_t i=0;i<binary.size();i++){
             answer=Multiple(answer,2);          //字符串形式 乘法
             answer=Add(answer,binary[i]);       //字符串形式 加法
         }
