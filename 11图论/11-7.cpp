@@ -39,7 +39,7 @@ void Dijkstra(int s){
         myPriorityQueue.pop();
         
         //依靠邻接表来进行dijkstra
-        for(int i=0;i<graph[u].size();i++){
+        for(size_t i=0;i<graph[u].size();i++){
             int v=graph[u][i].to;
             int l=graph[u][i].length;
             int p=graph[u][i].price;
