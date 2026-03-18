@@ -6,7 +6,7 @@ long long arr[MAXN];
 long long dp[MAXN];
 
 void Subsequence(int k){
-    long long maximum=-1;
+    long long maximum=arr[0];
     int first=0,last=0,t=0;
     for(int i=0;i<k;i++){
         if(i==0) {dp[i]=arr[i];}
